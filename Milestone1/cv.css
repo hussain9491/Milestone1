@@ -1,0 +1,30 @@
+
+div.heading{
+    color: azure;
+    background-color: rgba(5, 172, 80, 0.548);
+    padding: 0.8rem 1.6rem;
+    margin-bottom: 2rem;
+    
+    text-align: center;}
+
+
+    img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        margin-bottom: 20px;
+        border: 3px solid lightseagreen;
+        border-radius: 400%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+        margin-left: 30%;
+    }
+div.profile{
+    width: 20px;
+    min-height: auto;
+    
+}
+fieldset{
+    max-width: 700px;
+}
